@@ -1,76 +1,46 @@
-<h1 align="center">🚀 Ayush Kant</h1>
-<h3 align="center">Software Engineer | Backend Developer | Cloud Enthusiast</h3>
+<h1 align="center">Ayush Kant 🚀</h1>
+<h3 align="center">Backend Engineer | MERN Developer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:ayushkant17@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkant17%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ayushkant17/"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kant-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Ayushkant3011"><img src="https://img.shields.io/badge/GitHub-Ayushkant3011-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:ayushkant17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/ayushkant17/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Engineer at **Aaptatt Pvt. Ltd.**
-- ⚡ Built internal systems improving operational efficiency by **40–50%**
-- 🔐 Strong focus on backend architecture, REST APIs & secure authentication
-- ☁️ Hands-on with AWS & Microsoft Azure
-- 🧠 Currently sharpening **DSA + System Design**
-- 🚀 Looking to switch to a strong backend-focused product role
+I build scalable backend systems and full-stack applications using the **MERN stack**.  
+Focused on writing clean APIs, secure authentication flows, and solving real-world problems.
 
-I enjoy building scalable systems that solve real-world operational problems.
-
----
-
-## 🏗️ Experience
-
-### 🏢 Software Engineer — Aaptatt Pvt. Ltd.
-**Oct 2025 – Present**
-
-- Developed an internal **Employee Management System (MERN)**
-- Built modular REST APIs with JWT & cookie-based authentication
-- Implemented RBAC & secure workflow handling
-- Automated critical workflows covering **85–90% user journeys**
-- Improved system efficiency by **40–50%**
-- Optimized UI & backend integration across multiple modules
+Currently:
+- 🧠 Grinding DSA (pattern-based prep)
+- ⚙️ Improving backend architecture & scalability
+- ☁️ Exploring cloud-native deployments
 
 ---
 
-### ☁️ Celebal Technologies — Cloud Intern
-**Jun 2024 – Aug 2024**
+## 🚀 Featured Projects
 
-- Designed & deployed secure **3-tier Azure architecture**
-- Configured VNETs, NSGs & VNET peering
-- Worked with VMs & cloud network security
-
----
-
-### ☁️ Techplement — AWS Intern
-**May 2024**
-
-- Led a team of 4 to deploy a web application on AWS
-- Used EC2, Elastic Beanstalk & RDS
-- Ensured scalability & high availability
-
----
-
-## 🏗️ Projects
-
-### 🏢 Employee Management System (Production – Internal)
-**Tech:** MERN, Tailwind, JWT  
-- Full-stack internal tool with secure authentication
-- REST APIs for employee CRUD & attendance
-- Role-based access control
-- Improved internal workflow efficiency
+### 🏢 Employee Management System
+**Tech:** MERN, JWT, Tailwind  
+- Secure authentication (JWT + cookies)
+- Role-Based Access Control (RBAC)
+- Modular REST APIs
+- Workflow automation for operational efficiency
 
 ---
 
 ### 🎓 EduNexis – EdTech Platform
-**Tech:** MERN, Razorpay API  
-- JWT authentication + password encryption
-- Role-based system (Student / Instructor / Admin)
+**Tech:** MongoDB, Express, React, Node.js  
+- Student / Instructor / Admin roles
 - Secure payment integration
 - Modular backend architecture
+- Production-style API structure
 
 ---
 
@@ -78,49 +48,39 @@ I enjoy building scalable systems that solve real-world operational problems.
 **Tech:** C++, OOP, MySQL  
 - Airline reservation system
 - Booking workflows & ticket generation
-- Modular architecture with DB integration
+- Clean modular OOP design
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-`C++` `Java` `JavaScript` `Python` `HTML` `CSS`
+### Languages
+`C++` `JavaScript` `Java` `Python`
 
-### ⚙ Backend
-`Node.js` `Express.js` `REST APIs`
+### Backend
+`Node.js` `Express.js` `REST APIs` `JWT`
 
-### 🗄 Databases
-`MongoDB` `MySQL`
-
-### 🎨 Frontend
+### Frontend
 `React.js` `Tailwind CSS`
 
-### ☁ Cloud
-`AWS (EC2, Elastic Beanstalk, RDS)`  
-`Microsoft Azure (VNET, VM, NSG)`  
-`GCP`
+### Databases
+`MongoDB` `MySQL`
 
-### 🔧 Tools
-`Git` `GitHub` `VS Code` `IntelliJ`
+### Cloud
+`AWS` `Azure` `GCP`
+
+### Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🧠 Core Concepts
+## 🧠 Core Strength
 
+- Backend Architecture
+- API Design
+- Authentication & Authorization
 - Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- OOP
-- System Design Fundamentals
-
----
-
-## 🏆 Achievements
-
-- 🎖 AWS Academy Graduate – Cloud Foundations
-- 💻 Participated in GFG HackFest
-- 🏗 Designed & deployed multi-tier cloud architecture
+- Writing production-ready modular code
 
 ---
 
@@ -129,23 +89,16 @@ I enjoy building scalable systems that solve real-world operational problems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushkant3011&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkant3011&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkant3011&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Current Focus
+## 🎯 2026 Goals
 
-- 📌 Pattern-based DSA mastery
-- 📌 Backend scalability
-- 📌 Writing cleaner, production-ready code
-- 📌 Preparing for strong product-based roles
-
----
-
-### ⚡ Fun Fact
-I prefer building systems over talking about them.
+- Crack strong product-based backend role  
+- Master system design fundamentals  
+- Contribute to meaningful open-source projects  
 
 ---
 
-⭐ If you like my work, feel free to connect or collaborate!
+> "Build systems. Not just features."
